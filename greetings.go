@@ -8,3 +8,9 @@ func Hello(name string) string {
 	message := fmt.Sprintf("Hi, %v. Welcome!", name)
 	return message
 }
+
+/** моя простая функция */
+func Simple(name string) string {
+	message := "My string"
+	return message
+}
